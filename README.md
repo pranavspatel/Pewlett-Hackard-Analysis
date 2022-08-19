@@ -5,8 +5,10 @@ Determine the number of retiring employees per title, and identify employees who
 
 ## Results 
 First table that determines the number of retiring employees and their position titles:
+https://github.com/pranavspatel/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv
 
 Second table that identifies employee who are eligible for the mentorship program:
+https://github.com/pranavspatel/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv
 
 1) Most of of the retirees are Senior Engineers and Senior Staff.
 2) So more vacancy would be in the senior engineer positions and Staff.
